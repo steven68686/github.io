@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title:  Hello World
 date:   2022-01-20 22:05:00 +0800
-img: posts/myphotos/photo.jpeg 
+img: posts/20220120/bg.jpg
 tags: []
 author: Timmy
 description: First blog.
