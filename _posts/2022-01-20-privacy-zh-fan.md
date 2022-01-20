@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title:  隐私政策
+title:  隱私政策
 date:   2022-01-20 23:00:00 +0800
 img: posts/20220120/app.jpg
 tags: [app]
