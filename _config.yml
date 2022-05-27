@@ -1,5 +1,5 @@
 # Site settings
-title: 青岩君
+title: steven
 description: 'Stay hungry, Stay foolish' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -24,16 +24,16 @@ logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: Timmy # add your name
+author: steven # add your name
 author-pic: Myself.jpeg
 about-author: Engineer
 
 # Contact links
-email: syzlztt@163.com # Add your Email address
+email: steven68686@163.com # Add your Email address
 phone: # Add your Phone number
-website: https://mseternity.com # Add your website
+website: https://steven68686.github.io # Add your website
 linkedin:  # Add your Linkedin handle
-github: syzlztt # Add your Github handle
+github: steven68686 # Add your Github handle
 twitter: '@smalldreaming' # Add your Twitter handle
 bandcamp:  # Add your Bandcamp username
 stackoverflow:  # Add your stackoverflow account
